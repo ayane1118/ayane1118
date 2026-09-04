@@ -4,13 +4,11 @@
 - 📱 Learning Flutter
 - 🎨 Interested in Design Systems
 
----
 
 ## Languages
 
 Dart · Swift · Kotlin · Python · C · Java
 
----
 
 ## Connect with me
 
