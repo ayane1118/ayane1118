@@ -37,4 +37,7 @@
   <a href="https://x.com/ayane__1118" target="_blank">
     <img src="https://img.shields.io/badge/X-F3C1D7?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+  <a href="https://zenn.dev/ayane1118" target="_blank">
+    <img src="https://img.shields.io/badge/Zenn-F3C1D7?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
+  </a>
 </p>
