@@ -21,11 +21,6 @@
 <br/>
 
 ### 🌷 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayane1118&show_icons=true&title_color=f3c1d7&text_color=ffffff&icon_color=f3c1d7&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-  <br/>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayane1118&background=0D1117&ring=F3C1D7&fire=F3C1D7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F3C1D7&sideLabels=FFFFFF&dates=F3C1D7&hide_border=true" alt="GitHub Streak" />
 </p>
